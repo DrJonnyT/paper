@@ -13,3 +13,6 @@ Donkeys like to eat bananas (Chiquito et al., 1955).
 The guy from the hotel got us some bananas (Hotel et al, 2017)
 
 We had an idea to feed the bananas to the donkeys
+
+#Simulations
+We developed an elaborate FORTRAN model to simulate the insertion of bananas into a generic mammalian mouth
