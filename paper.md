@@ -1,5 +1,5 @@
 # Title
-Video evidence and simulations of Keith and the donkey
+Video evidence and simulations of Keith and the donkey and alpaca
 
 # Author
 Jonny Taylor, University of Manchester
