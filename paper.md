@@ -6,6 +6,10 @@ Jonny Taylor, University of Manchester
 
 Ross FromReading, University of Reading
 
+# Abstract
+Donkeys like to eat bananas. We took a video of a donkey eating a banana from Keith's mouth.
+We ran a model which proved it was possible for all mammals to eat bananas.
+
 # Introduction
 We were on Ascension Island and there were a few wild donkeys who liked to hang around near the hotel.
 
