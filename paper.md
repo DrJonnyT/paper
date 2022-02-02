@@ -2,9 +2,11 @@
 Video evidence and simulations of Keith and the donkey
 
 # Author
-Jonny Taylor
+Ross FromReading (University of Reading)
 
-Ross FromReading
+Jonny Taylor (University of Manchester)
+
+
 
 # Introduction
 We were on Ascension Island and there were a few wild donkeys who liked to hang around near the hotel.
