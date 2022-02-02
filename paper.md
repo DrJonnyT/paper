@@ -25,3 +25,6 @@ The model is detailed in FromReading et al (2017).
 # Results
 The video showed clear evidence of both humans and donkeys eating bananas, in good agreement with the model simulations.
 The video also showed transfer of bananas from a human mouth to a donkey mouth. We suggest further model development.
+
+# Figures
+A figure of a donkey eating a banana
