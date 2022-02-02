@@ -1,8 +1,9 @@
 # Title
-Keith and the donkey
+Simulations of Keith and the donkey
 
 # Author
 Jonny Taylor
+Ross FromReading
 
 #Introduction
 We were on Ascension Island and there were a few wild donkeys who liked to hang around near the hotel.
