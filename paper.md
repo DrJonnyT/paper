@@ -28,3 +28,6 @@ The video also showed transfer of bananas from a human mouth to a donkey mouth. 
 
 # Figures
 A figure of a donkey eating a banana
+
+# Conclusions
+Donkeys and humans both like bananas. Donkeys will also eat bananas when transferred directly from a human's mouth.
